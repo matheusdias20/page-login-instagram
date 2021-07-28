@@ -1,11 +1,13 @@
 <h1 align="center">💻 Página Inicial do Instagram</h1>
 <p align="center">
-  <strong>App desenvolvido no Bootcamp Full Stack da Digital House</strong>
+  <strong>Desenvolvido no curso Avanade Angular Developer da Digital Innovation</strong>
   <br>
-  <span>Aplicativo criado com intuito de aprender o conceito sobre CSS utilizando Flexbox e sobre Responsividade</span>
+  <span>Aplicativo feito com intuito de aprender o conceito sobre CSS utilizando Flexbox e sobre Responsividade</span>
 </p>
 
-
+<p align="center">
+  <img src="img/home.jpeg" alt="">
+</p>
 
 
 ### 💻 Site 
@@ -16,4 +18,3 @@
 
 - HTML
 - CSS
-- JavaScript
